@@ -13,6 +13,6 @@ public class ReStart {
 
         System.out.println("hello Bigdata~");
 
-        System.out.println("I'm not OK");
+        System.out.println("nihao");
     }
 }
