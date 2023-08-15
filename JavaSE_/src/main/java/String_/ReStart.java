@@ -14,5 +14,7 @@ public class ReStart {
         System.out.println("hello Bigdata~");
 
         System.out.println("nihao");
+
+        System.out.println("远程新增分支...");
     }
 }
