@@ -16,5 +16,7 @@ public class ReStart {
         System.out.println("nihao");
 
         System.out.println("从Master分支 推送 至 Dev分支");
+
+        System.out.println("分支之间切换出现冲突");
     }
 }
