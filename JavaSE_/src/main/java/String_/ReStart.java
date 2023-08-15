@@ -17,6 +17,6 @@ public class ReStart {
 
         System.out.println("远程新增分支...");
 
-        System.out.println("111111");
+        System.out.println("远程拉取冲突...");
     }
 }
