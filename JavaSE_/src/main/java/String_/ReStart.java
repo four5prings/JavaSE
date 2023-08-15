@@ -12,5 +12,7 @@ public class ReStart {
         System.out.println("hello Java!");
 
         System.out.println("hello Bigdata~");
+
+        System.out.println("nihao");
     }
 }
