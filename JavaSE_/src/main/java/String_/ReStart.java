@@ -14,5 +14,7 @@ public class ReStart {
         System.out.println("hello Bigdata~");
 
         System.out.println("nihao");
+
+        System.out.println("从Master分支 推送 至 Dev分支");
     }
 }
