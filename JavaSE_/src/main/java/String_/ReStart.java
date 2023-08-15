@@ -15,6 +15,8 @@ public class ReStart {
 
         System.out.println("nihao");
 
+        System.out.println("远程新增分支...");
+
         System.out.println("从Master分支 推送 至 Dev分支");
     }
 }
